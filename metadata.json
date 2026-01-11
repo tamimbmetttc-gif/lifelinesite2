@@ -1,0 +1,7 @@
+{
+  "name": "Blood & Emergency Help",
+  "description": "A comprehensive life-saving platform for finding blood donors, emergency services, and first-aid guidance with real-time analytics and SOS support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
